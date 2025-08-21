@@ -2754,7 +2754,7 @@ __metadata:
     vite: "npm:^6.3.5"
     vite-plugin-manifest-sri: "npm:^0.2.0"
     vite-plugin-pwa: "npm:^1.0.0"
-    vite-plugin-static-copy: "npm:^3.1.0"
+    vite-plugin-static-copy: "npm:^3.1.2"
     vite-plugin-svgr: "npm:^4.3.0"
     vite-tsconfig-paths: "npm:^5.1.4"
     vitest: "npm:^3.2.1"
@@ -5567,12 +5567,12 @@ __metadata:
   linkType: hard
 
 "brace-expansion@npm:^1.1.7":
-  version: 1.1.11
-  resolution: "brace-expansion@npm:1.1.11"
+  version: 1.1.12
+  resolution: "brace-expansion@npm:1.1.12"
   dependencies:
     balanced-match: "npm:^1.0.0"
     concat-map: "npm:0.0.1"
-  checksum: 10c0/695a56cd058096a7cb71fb09d9d6a7070113c7be516699ed361317aca2ec169f618e28b8af352e02ab4233fb54eb0168460a40dc320bab0034b36ab59aaad668
+  checksum: 10c0/975fecac2bb7758c062c20d0b3b6288c7cc895219ee25f0a64a9de662dbac981ff0b6e89909c3897c1f84fa353113a721923afdec5f8b2350255b097f12b1f73
   languageName: node
   linkType: hard
 
@@ -12978,8 +12978,8 @@ __metadata:
   linkType: hard
 
 "tar@npm:^6.1.11, tar@npm:^6.1.2":
-  version: 6.2.0
-  resolution: "tar@npm:6.2.0"
+  version: 6.2.1
+  resolution: "tar@npm:6.2.1"
   dependencies:
     chownr: "npm:^2.0.0"
     fs-minipass: "npm:^2.0.0"
@@ -12987,7 +12987,7 @@ __metadata:
     minizlib: "npm:^2.1.1"
     mkdirp: "npm:^1.0.3"
     yallist: "npm:^4.0.0"
-  checksum: 10c0/02ca064a1a6b4521fef88c07d389ac0936730091f8c02d30ea60d472e0378768e870769ab9e986d87807bfee5654359cf29ff4372746cc65e30cbddc352660d8
+  checksum: 10c0/a5eca3eb50bc11552d453488344e6507156b9193efd7635e98e867fab275d527af53d8866e2370cd09dfe74378a18111622ace35af6a608e5223a7d27fe99537
   languageName: node
   linkType: hard
 
@@ -13838,9 +13838,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-static-copy@npm:^3.1.0":
-  version: 3.1.1
-  resolution: "vite-plugin-static-copy@npm:3.1.1"
+"vite-plugin-static-copy@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "vite-plugin-static-copy@npm:3.1.2"
   dependencies:
     chokidar: "npm:^3.6.0"
     fs-extra: "npm:^11.3.0"
@@ -13849,7 +13849,7 @@ __metadata:
     tinyglobby: "npm:^0.2.14"
   peerDependencies:
     vite: ^5.0.0 || ^6.0.0 || ^7.0.0
-  checksum: 10c0/a4dd5d31212b037d4902d55c2ee83866e496857bf948f258599dc24ec61b4628cf0dd23e4a7d7dc189d33ad1489427e976fa95e4db61b394d0be4f63077ef92c
+  checksum: 10c0/1a65f4c9d291cc27483a5b225b1ac5610edc3aa2f13fa3a76a77327874c83bbee52e1011ee0bf5b0168b9b7b974213d49fe800e44af398cfbcb6607814b45c5b
   languageName: node
   linkType: hard
 
